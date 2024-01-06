@@ -1,2 +1,2 @@
-### Hi there 👋 Web Developer
-📫 How to reach me : franck.vukelic@gmail.com
+💻 Web Developer
+📫 Contact @franck.vukelic@gmail.com
