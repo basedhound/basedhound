@@ -1,3 +1,2 @@
-💻 Web Developer
-
-📫 Contact : franck.vukelic@gmail.com
+### 💻 Web Developer
+- 📫 Contact : franck.vukelic@gmail.com
