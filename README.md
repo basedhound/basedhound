@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5612AQFh1Dn9Qt3yag/article-cover_image-shrink_720_1280/0/1693246859141?e=2147483647&v=beta&t=yHWaxo5X7cPTSinL3mEpyOAa55QTibKoMDYkeG4H6sg" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5612AQFh1Dn9Qt3yag/article-cover_image-shrink_720_1280/0/1693246859141?e=2147483647&v=beta&t=yHWaxo5X7cPTSinL3mEpyOAa55QTibKoMDYkeG4H6sg" align="center" style="width: 50%" />
 </div>  
   
 
@@ -23,8 +23,6 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -34,8 +32,6 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -44,8 +40,6 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
