@@ -19,17 +19,18 @@
 
   <table>
       <td>
-        <h4>🎨 Front</h4>
+        <p><strong>🎨 Front</strong></p>
+        <ul>
          <li>Next.js, React, TypeScript, JavaScript</li>
          <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
          <li>SEO, Accessibility, Copywriting</li>
         </ul>
-        <h4>🛠 Back</h4>
+        <p><strong>🛠 Back</strong></p>
         <ul>
           <li>Node.js, Express, MongoDB, PostgreSQL</li>
           <li>Firebase, Appwrite, Cloudinary</li>
         </ul>
-        <h4>📁 More</h4>
+        <p><strong>📁 More</strong></p>
         <ul>
           <li>Wordpress/Divi, React Native/Expo</li>
           <li>Figma, Photoshop, Midjourney, Dall-E</li>
