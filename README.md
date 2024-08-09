@@ -15,7 +15,7 @@
   <table>
       <td style="width: 50%;">
         <h4>📁 Front</h4>
-          <li>Next.js – React – TypeScript – JavaScript &nbsp; &nbsp; &nbsp; </li>
+          <li>Next. – React – TypeScript – JavaScript </li>
         <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
           <li>SEO – Accessibility – Copywriting</li>
         </ul>
@@ -33,7 +33,7 @@
         </ul>
       </td>
          <td style="width: 50%;">
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png"/>
+        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" style="width: 75%;"/>
       </td>
   </table>
 </div>
