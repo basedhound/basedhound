@@ -1,6 +1,8 @@
   <div align="center">
-      <img src="https://s4.ezgif.com/tmp/ezgif-4-33da8a651e.gif" alt="footer">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
 </div>
+
+
 <div  align="center">
   <h3>💻 Web Developer</h3>
   <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
@@ -14,10 +16,6 @@
     ✖ <a href="https://x.com/frank_vkh">Twiter</a>
         
 </div><br/><br/>
-
-  <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
-</div>
 
   <table>
       <td>
@@ -47,5 +45,6 @@
   </table>
 
   <div align="center">
-      <img src="https://s4.ezgif.com/tmp/ezgif-4-f52e7997db.gif" alt="footer">
+      <img src="https://s4.ezgif.com/tmp/ezgif-4-33da8a651e.gif" alt="footer">
 </div>
+
