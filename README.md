@@ -1,3 +1,5 @@
+<div style="align:center; width:100%"><img src="https://i.imgur.com/Upbzw8T.gif"/></div>
+
 ### 💻 Web Developer
 - Proficient in **React** and **Next.js** ✔
 - Fluent in both **French** and **English** ☕
@@ -37,4 +39,5 @@
         <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
   </table>
+
   
