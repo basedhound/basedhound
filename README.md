@@ -13,7 +13,7 @@
   👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> <br/>
   📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> |
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
-    ✖ <a href="https://x.com/frank_vkh">Twiter</a>
+    ✖ <a href="https://x.com/frank_vkh">Twitter</a>
         
 </div><br/><br/>
 
