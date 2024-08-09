@@ -1,8 +1,7 @@
-### Hello there, 
-#### 💻 Web Developer
-Proficient in **React** and **Next.js**
-<br/>Fluent in **French** and **English**
-<br/>Check my links below 👇
+### 💻 Web Developer
+- Proficient in **React** and **Next.js**
+- Fluent in **French** and **English**
+- Check my links below 👇
 
 <div>
     🖼 <a href="https://devfrank.vercel.app">Portfolio</a> |
