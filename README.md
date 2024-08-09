@@ -38,5 +38,6 @@
       </td>
   </table>
 
-
-  
+  <div align="right">
+      <img src="https://i.imgur.com/Upbzw8T.gif" alt="Project Banner">
+</div>
