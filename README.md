@@ -1,3 +1,7 @@
+  <div align="center">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
+</div>
+
 ### 💻 Web Developer
 - Proficient in **React** and **Next.js** ✔
 - Fluent in both **French** and **English** ☕
