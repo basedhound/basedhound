@@ -30,7 +30,7 @@
           <li>Vercel – Hostinger – Netlify</li>
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
-      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 540px; height:1px"/></ul>
+      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 530px; height:1px"/></ul>
                </div>
       </td>
          <td>
