@@ -2,17 +2,14 @@
 Proficient in React and Next.js, I've spent the last 3 years building websites and applications. In my free time, I dive into self-driven projects to broaden my technological skills. Let's work together.  
   
 <div align="center">
-📧 [Email](franck.vukelic@gmail.com)
-🖼 [Portfolio](https;//devfrank.vercel.app)
-🎨 [Webdesign](https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe)
-👔 [LinkedIn](https://www.linkedin.com/in/frankdev)
-💬 [WhatsApp](https://www.linkedin.com/in/frankdev)
+- 📧 [Email](franck.vukelic@gmail.com)
+- 🖼 [Portfolio](https;//devfrank.vercel.app)
+- 🎨 [Webdesign](https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe)
+- 👔 [LinkedIn](https://www.linkedin.com/in/frankdev)
+- 💬 [WhatsApp](https://www.linkedin.com/in/frankdev)
 </div>  
   
-  
-
-  
-  
+   
 
 <br/>  
 
@@ -64,12 +61,4 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
