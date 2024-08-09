@@ -1,20 +1,13 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D5612AQFh1Dn9Qt3yag/article-cover_image-shrink_720_1280/0/1693246859141?e=2147483647&v=beta&t=yHWaxo5X7cPTSinL3mEpyOAa55QTibKoMDYkeG4H6sg" align="center" style="width: 50%" />
-</div>  
-  
-
-
-
 ### Hello there, I'm Frank  
 Proficient in React and Next.js, I've spent the last 3 years building websites and applications. In my free time, I dive into self-driven projects to broaden my technological skills. Let's work together.  
   
-
-- 📧 [Email](franck.vukelic@gmail.com)
-- 🖼 [Portfolio](https;//devfrank.vercel.app)
-- 🎨 [Webdesign](https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe)
-- 👔 [LinkedIn](https://www.linkedin.com/in/frankdev)
-- 💬 [WhatsApp](https://www.linkedin.com/in/frankdev)
-
+<div align="center">
+📧 [Email](franck.vukelic@gmail.com)
+🖼 [Portfolio](https;//devfrank.vercel.app)
+🎨 [Webdesign](https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe)
+👔 [LinkedIn](https://www.linkedin.com/in/frankdev)
+💬 [WhatsApp](https://www.linkedin.com/in/frankdev)
+</div>  
   
   
 
