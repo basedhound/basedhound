@@ -1,3 +1,8 @@
+  
+<div align="center">
+      <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="footer">
+</div>
+
 <div align="center">
       <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif" alt="footer">
 </div>
@@ -42,7 +47,8 @@
         <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
   </table>
-  
+
 <div align="center">
-      <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="footer">
+      <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif" alt="footer">
 </div>
+
