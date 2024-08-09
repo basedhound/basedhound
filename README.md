@@ -1,22 +1,23 @@
+  <div align="center">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
+</div>
+
 ### 💻 Web Developer
 - Proficient in **React** and **Next.js** ✔
 - Fluent in both **French** and **English** ☕
 - Check my links below 👇
 
 <div  align="center">
-    📌 <a href="https://devfrank.vercel.app">Portfolio</a> |
-    ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
-    👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> |
-    📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
-    📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> |
+    📌 <a href="https://devfrank.vercel.app">Portfolio</a> – 
+    ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> – 
+    👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> – 
+    📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> – 
+    📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> – 
     💬 <a href="https://ig.me/m/frank.vkh">Instagram</a>
     
     
 </div><br/><br/>
 
-  <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
-</div>
   <table>
       <td>
         <h4>🎨 Front</h4>
