@@ -34,4 +34,5 @@
         </div>
     </div>
 
-<img src="https://shorturl.at/nu7Zc" alt="Description of image" style="width: 30%; height: auto;"/>
+<div align="right">
+<img src="https://shorturl.at/nu7Zc" alt="Description of image" style="width: 30%; height: auto;"/></div>
