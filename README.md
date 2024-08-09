@@ -1,15 +1,13 @@
 ### Hello there, I'm Frank  
 Proficient in React and Next.js, I've spent the last 3 years building websites and applications. In my free time, I dive into self-driven projects to broaden my technological skills. Let's work together.  
-  
+
 <div align="center">
-- 📧 [Email](franck.vukelic@gmail.com)
-- 🖼 [Portfolio](https;//devfrank.vercel.app)
-- 🎨 [Webdesign](https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe)
-- 👔 [LinkedIn](https://www.linkedin.com/in/frankdev)
-- 💬 [WhatsApp](https://www.linkedin.com/in/frankdev)
-</div>  
-  
-   
+    <a href="mailto:franck.vukelic@gmail.com">📧 Email</a><br>
+    <a href="https://devfrank.vercel.app">🖼 Portfolio</a><br>
+    <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">🎨 Webdesign</a><br>
+    <a href="https://www.linkedin.com/in/frankdev">👔 LinkedIn</a><br>
+    <a href="https://www.linkedin.com/in/frankdev">💬 WhatsApp</a>
+</div>
 
 <br/>  
 
@@ -20,26 +18,17 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
-
-<div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-<br/>  
-
-<div align="center">  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
 </div>  
 
 <br/>  
