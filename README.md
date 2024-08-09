@@ -3,10 +3,10 @@
 </div>
 
 <div  align="center">
-  <h2>💻 Web Developer</h2>
-  <h3>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</h3>
-  <h3>Fluent in both <strong>French</strong> and <strong>English</strong> ☕</h3>
-  <h3>Check my links below 👇</h3>
+  <h3>💻 Web Developer</h3>
+  <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
+  <p>Fluent in both <strong>French</strong> and <strong>English</strong> ☕</p>
+  <p>Check my links below 👇</p>
     📌 <a href="https://devfrank.vercel.app">Portfolio</a> | 
     ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
   👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> <br/>
