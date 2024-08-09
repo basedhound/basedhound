@@ -11,20 +11,27 @@
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
 </div><br/>
 
-#### 📁 Front 
-- Next.js – React – TypeScript – JavaScript
-- Tailwind – Sass – shadcn/ui – Bootstrap
-- SEO – Accessibility – Copywriting
+ <div style="display: flex; justify-content: space-between;">
+        <div>
+            <h4>📁 Front</h4>
+            <ul>
+                <li>Next.js – React – TypeScript – JavaScript</li>
+                <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
+                <li>SEO – Accessibility – Copywriting</li>
+            </ul>
+            <h4>📁 Back</h4>
+            <ul>
+                <li>Node.js – Express – MongoDB – PostgreSQL</li>
+                <li>Firebase – Appwrite – Cloudinary</li>
+            </ul>
+            <h4>📁 More</h4>
+            <ul>
+                <li>Wordpress/Divi – React Native/Expo</li>
+                <li>Figma – Photoshop – Midjourney – Dall-E</li>
+                <li>Vercel – Hostinger – Netlify</li>
+                <li>Git – Git Copilot – OpenAI API</li>
+            </ul>
+        </div>
+    </div>
 
-#### 📁 Back
-- Node.js – Express – MongoDB – PostgreSQL
-- Firebase – Appwrite – Cloudinary
-
-#### 📁 More
-- Wordpress/Divi – React Native/Expo
-- Figma – Photoshop – Midjourney – Dall-E
-- Vercel – Hostinger – Netlify
-- Git – Git Copliot – OpenAI API 
-
-<br/><br/><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0977030-9a93-4911-8a32-ccb6965fe879/dfcccgk-79140f72-a3d7-4240-b6b8-1e2c7a1458c0.png/v1/fill/w_1280,h_1280/goku_dev_by_d4nijerez_dfcccgk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2QwOTc3MDMwLTlhOTMtNDkxMS04YTMyLWNjYjY5NjVmZTg3OVwvZGZjY2Nnay03OTE0MGY3Mi1hM2Q3LTQyNDAtYjZiOC0xZTJjN2ExNDU4YzAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tbG5jiWuDm45Z4ryuKo1yzCkajLnhZYGetIBbsesKD4" alt="Description of image" width="50%"/>
-
+<img src="https://shorturl.at/nu7Zc" alt="Description of image" style="width: 30%; height: auto;"/>
