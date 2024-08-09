@@ -38,6 +38,6 @@
       </td>
   </table>
 
-  <div align="right">
-      <img src="https://i.imgur.com/Upbzw8T.gif" alt="Project Banner">
+  <div align="center">
+      <img src="https://gifdb.com/images/high/ghibli-totoro-cute-smile-agqzmpseu8b1gx29.gif" alt="Project Banner">
 </div>
