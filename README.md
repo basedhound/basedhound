@@ -1,3 +1,6 @@
+  <div align="center">
+      <img src="https://s4.ezgif.com/tmp/ezgif-4-33da8a651e.gif" alt="footer">
+</div>
 <div  align="center">
   <h3>💻 Web Developer</h3>
   <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
