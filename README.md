@@ -1,5 +1,5 @@
-### Hello there, I'm Frank
-#### 💻 Web Developer
+### Hello there, 
+#### 💻 I'm a Web Developer
 - Proficient in **React** and **Next.js**
 - Check my links below 👇
 
