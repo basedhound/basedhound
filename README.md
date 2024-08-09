@@ -4,8 +4,8 @@
 - Check my links below 👇
 
 <div>
-    ✨ <a href="https://devfrank.vercel.app">Portfolio</a> |
-    📂 <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
+    📌 <a href="https://devfrank.vercel.app">Portfolio</a> |
+    ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
     👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a><br/>
     📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
     📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> |
@@ -21,7 +21,7 @@
          <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
          <li>SEO, Accessibility, Copywriting</li>
         </ul>
-        <h4>📁 Back</h4>
+        <h4>⚙ Back</h4>
         <ul>
           <li>Node.js, Express, MongoDB, PostgreSQL</li>
           <li>Firebase, Appwrite, Cloudinary</li>
@@ -39,13 +39,8 @@
          <td>
         <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
-        <tr>
-    <td colspan="2" align="center" style="padding: 0; margin: 0;">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-c39466c6b5.gif" alt="Project Banner" style="width: 100%; height: auto;" />
-    </td>
-  </tr>
   </table>
 
   <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-c39466c6b5.gif" alt="Project Banner">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-c39466c6b5.gif" alt="footer">
 </div>
