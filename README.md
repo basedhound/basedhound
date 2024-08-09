@@ -1,5 +1,5 @@
-  <div align="center">
-      <img src="https://s4.ezgif.com/tmp/ezgif-4-33da8a651e.gif" alt="footer">
+<div align="center">
+      <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif" alt="footer">
 </div>
 
 <div  align="center">
@@ -35,15 +35,14 @@
           <li>Vercel, Hostinger, Netlify</li>
           <li>Git, OpenAI API, AI Tools</li>
         </ul>
-      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 600px; height:1px"/></ul>
+      <ul><img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:1px"/></ul>
                </div>
       </td>
          <td>
         <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
   </table>
-
-  <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
+  
+<div align="center">
+      <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="footer">
 </div>
-
