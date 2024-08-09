@@ -26,4 +26,5 @@
 - Vercel – Hostinger – Netlify
 - Git – Git Copliot – OpenAI API 
 
+<br/><br/><img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" alt="Description of image"/>
 
