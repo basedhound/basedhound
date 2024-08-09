@@ -11,8 +11,8 @@
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
 </div><br/>
 
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-      <td style="width: 50%;">
+  <table>
+      <td>
         <h4>📁 Front</h4>
          <li> Next.js – React – TypeScript – JavaScript</li>
          <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
@@ -30,11 +30,11 @@
           <li>Vercel – Hostinger – Netlify</li>
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
-      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 500px; height:1px"/></ul>
+      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 540px; height:1px"/></ul>
                </div>
       </td>
          <td>
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" style="width: 100%;"/>
+        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png"/>
       </td>
   </table>
   
