@@ -2,12 +2,11 @@
       <img src="https://s1.ezgif.com/tmp/ezgif-1-dd2ce6ba9d.gif" alt="footer">
 </div>
 
-### 💻 Web Developer
-- Proficient in **React** and **Next.js** ✔
-- Fluent in both **French** and **English** ☕
-- Check my links below 👇
-
 <div  align="center">
+  <h3>💻 Web Developer</h3>
+  <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
+  <p>Fluent in both <strong>French</strong> and <strong>English</strong> ☕</p>
+  <p>Check my links below 👇</p>
     📌 <a href="https://devfrank.vercel.app">Portfolio</a> | 
     ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
   👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> <br/>
