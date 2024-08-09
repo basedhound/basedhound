@@ -34,7 +34,7 @@
                </div>
       </td>
          <td>
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" style="width: 75%;"/>
+        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" style="width: 100%;"/>
       </td>
   </table>
   
