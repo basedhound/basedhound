@@ -36,8 +36,8 @@
          <td>
         <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
-  </table>
+  </table><br/>
 
   <div align="center">
-      <img src="https://gifdb.com/images/high/ghibli-totoro-cute-smile-agqzmpseu8b1gx29.gif" alt="Project Banner">
+      <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" alt="Project Banner">
 </div>
