@@ -12,12 +12,14 @@
 </div><br/>
 
 <div style="text-align: center;">
-  <table style="margin: auto; border-collapse: collapse; ">
+  <table>
     <tr>
-      <td style="width: 60%; padding: 10px; vertical-align: top;">
+              <td style="width: 50%;">
+        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" alt="Description of image" style="width: 75%; height: auto;"/>
+      </td>
+      <td style="width: 50%;">
         <h4>📁 Front</h4>
-        <ul>
-          <li>Next.js – React – TypeScript – JavaScript</li>
+          <li>Next.js – React – TypeScript – JavaScript – Tailwind – Sass – shadcn/ui – Bootstrap</li>
           <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
           <li>SEO – Accessibility – Copywriting</li>
         </ul>
@@ -33,9 +35,6 @@
           <li>Vercel – Hostinger – Netlify</li>
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" alt="Description of image" style="width: 75%; height: auto;"/>
       </td>
     </tr>
   </table>
