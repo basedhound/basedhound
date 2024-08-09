@@ -3,10 +3,6 @@
       <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="footer">
 </div>
 
-<div align="center">
-      <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif" alt="footer">
-</div>
-
 <div  align="center">
   <h3>💻 Web Developer</h3>
   <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
