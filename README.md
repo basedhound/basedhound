@@ -18,12 +18,12 @@
 
 #### 📁 Back
 - Node.js – Express – MongoDB – PostgreSQL
-- Appwrite – 
+- Firebase – Appwrite – Cloudinary
 
 #### 📁 More
 - Wordpress/Divi – React Native/Expo
 - Figma – Photoshop – Midjourney – Dall-E
-- Vercel – Firebase – Hostinger – Netlify
+- Vercel – Hostinger – Netlify
 - Git – Git Copliot – OpenAI API 
 
 
