@@ -1,5 +1,5 @@
   <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-dd2ce6ba9d.gif" alt="footer">
 </div>
 
 ### 💻 Web Developer
@@ -45,5 +45,5 @@
   </table>
 
   <div align="center">
-      <img src="https://s1.ezgif.com/tmp/ezgif-1-dd2ce6ba9d.gif" alt="footer">
+      <img src="https://s1.ezgif.com/tmp/ezgif-1-955a677285.gif" alt="footer">
 </div>
