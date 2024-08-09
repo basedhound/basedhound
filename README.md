@@ -8,7 +8,7 @@
     🎨 <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
     👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a><br/>
     ✉ <a href="mailto:franck.vukelic@gmail.com">Email</a> |
-    📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
+    📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Instagram</a>
 </div><br/><br/>
 
