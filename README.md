@@ -13,14 +13,10 @@
 
 <div style="text-align: center;">
   <table>
-    <tr>
-              <td style="width: 50%;">
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" alt="Description of image" style="width: 75%; height: auto;"/>
-      </td>
       <td style="width: 50%;">
         <h4>📁 Front</h4>
-          <li>Next.js – React – TypeScript – JavaScript – Tailwind – Sass – shadcn/ui – Bootstrap</li>
-          <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
+          <li>Next.js – React – TypeScript – JavaScript &nbsp; &nbsp; &nbsp; </li>
+        <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
           <li>SEO – Accessibility – Copywriting</li>
         </ul>
         <h4>📁 Back</h4>
@@ -36,7 +32,9 @@
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
       </td>
-    </tr>
+         <td style="width: 50%;">
+        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png"/>
+      </td>
   </table>
 </div>
   
