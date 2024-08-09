@@ -34,7 +34,7 @@
                </div>
       </td>
          <td>
-        <img src="https://eccv2022-dis-background-removal.hf.space/file=/tmp/gradio/c52f00391e83df3c8ffb8b540dd66c7be91cc078/image.webp"/>
+        <img src="https://i.postimg.cc/BvpRkbNs/F8-Pl-LPCbo-AABB8v.png"/>
       </td>
   </table>
   
