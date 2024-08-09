@@ -12,13 +12,13 @@
 </div><br/>
 
 #### 📁 Front 
-- Next.js – React – TypeScript – Redux
+- Next.js – React – TypeScript – JavaScript
 - Tailwind – Sass – shadcn/ui – Bootstrap
 - SEO – Accessibility – Copywriting
 
 #### 📁 Back
 - Node.js – Express – MongoDB – PostgreSQL
-- Appwrite- 
+- Appwrite – 
 
 #### 📁 More
 - Wordpress/Divi – React Native/Expo
