@@ -11,8 +11,9 @@
     📌 <a href="https://devfrank.vercel.app">Portfolio</a> | 
     ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
   👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a> <br/>
-  📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> <br/>
-    💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
+  📧 <a href="mailto:franck.vukelic@gmail.com">Email</a> |
+    💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
+    ✖ <a href="https://api.whatsapp.com/send?phone=33779134587">Twiter</a>
         
 </div><br/><br/>
 
