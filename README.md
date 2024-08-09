@@ -11,13 +11,12 @@
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
 </div><br/>
 
-<div style="text-align: center;">
-  <table>
-      <td style="width: 50%;">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+      <td style="width: 100%;">
         <h4>📁 Front</h4>
-          <li>Next. – React – TypeScript – JavaScript </li>
-        <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
-          <li>SEO – Accessibility – Copywriting</li>
+         <li> Next.js – React – TypeScript – JavaScript</li>
+         <li>Tailwind – Sass – shadcn/ui – Bootstrap</li>
+         <li>SEO – Accessibility – Copywriting</li>
         </ul>
         <h4>📁 Back</h4>
         <ul>
@@ -31,10 +30,10 @@
           <li>Vercel – Hostinger – Netlify</li>
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
+          </div>
       </td>
-         <td style="width: 50%;">
+         <td>
         <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png" style="width: 75%;"/>
       </td>
   </table>
-</div>
   
