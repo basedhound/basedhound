@@ -1,6 +1,6 @@
 ### 💻 Web Developer
 - Proficient in **React** and **Next.js**
-- Fluent in **French** and **English**
+- Fluent in both French and English
 - Check my links below 👇
 
 <div>
