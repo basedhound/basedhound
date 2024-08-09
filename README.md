@@ -27,14 +27,16 @@ Proficient in React and Next.js, I've spent the last 3 years building websites a
 </div><br/>  
 
 ###  Stack 
-Front 
-Next.js, React, TypeScript, Tailwind, Sass, 
-
-Back
-Next.js, Node.js, Express. MongoDB, PostgreSQL
-
-
-More
-Figma, Photoshop, Git, OpenAI API, 
-
+<table border="1">
+    <tr>
+        <th>Front</th>
+        <th>Back</th>
+        <th>Other</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
