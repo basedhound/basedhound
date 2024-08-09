@@ -11,13 +11,18 @@
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a>
 </div>
 
-#### More
+#### Front
 - Next.js – React – TypeScript – Redux
 - Tailwind – Sass – shadcn/ui – Bootstrap
-- Node.js – Express – MongoDB – PostgreSQL
+- SEO – Accessibility – Copywriting
+
+#### Back
+- Node.js – Express – MongoDB – PostgreSQL – Appwrite
+
+#### And more
 - Wordpress – Divi – React Native – Expo
-- SEO, Accessibility, Copywriting
-- Figma, Photoshop, Midjourney, Dall-E
-- Vercel, Firebase, Appwrite, Git, AI Tools
+- Figma – Photoshop – Midjourney – Dall-E
+- Vercel – Firebase – Hostinger – Netlify
+- Git – AI Tools
 
 
