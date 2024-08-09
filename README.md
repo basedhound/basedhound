@@ -34,7 +34,7 @@
                </div>
       </td>
          <td>
-        <img src="https://i.postimg.cc/BvpRkbNs/F8-Pl-LPCbo-AABB8v.png"/>
+        <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
       </td>
   </table>
   
