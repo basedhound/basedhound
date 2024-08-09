@@ -5,16 +5,16 @@
 
 <div>
     ✨ <a href="https://devfrank.vercel.app">Portfolio</a> |
-    🎨 <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
-    👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a><br/>
-    ✉ <a href="mailto:franck.vukelic@gmail.com">Email</a> |
+    📂 <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a> |
+    👔 <a href="https://www.linkedin.com/in/frankdev">LinkedIn</a><br/> |
     📞 <a href="https://api.whatsapp.com/send?phone=33779134587">WhatsApp</a> |
     💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Instagram</a>
+    
 </div><br/><br/>
 
   <table>
       <td>
-        <h4>📁 Front</h4>
+        <h4>🎨 Front</h4>
          <li>Next.js, React, TypeScript, JavaScript</li>
          <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
          <li>SEO, Accessibility, Copywriting</li>
