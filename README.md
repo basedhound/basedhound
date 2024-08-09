@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <img src="https://shorturl.at/nu7Zc" alt="Description of image" style="max-width: 50%; height: auto;"/>
+      <img src="https://shorturl.at/nu7Zc" alt="Description of image" style="width: 50%; height: auto;"/>
     </td>
   </tr>
 </table>
