@@ -4,7 +4,7 @@
 </div>
 
 <div  align="center">
-  <h3>💻 Web Developer</h3>
+  <h3>Web Developer</h3>
   <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
   <p>Fluent in both <strong>French</strong> and <strong>English</strong> ☕</p>
   <p>Check my links below 👇</p>
