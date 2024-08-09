@@ -30,11 +30,11 @@
           <li>Vercel – Hostinger – Netlify</li>
           <li>Git – Git Copilot – OpenAI API</li>
         </ul>
-      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 520px; height:1px"/></ul>
+      <ul><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png" style="width: 600px; height:1px"/></ul>
                </div>
       </td>
          <td>
-        <img src="https://i.ibb.co/z2nzxF1/output-onlinepngtools-1.png"/>
+        <img src="https://eccv2022-dis-background-removal.hf.space/file=/tmp/gradio/c52f00391e83df3c8ffb8b540dd66c7be91cc078/image.webp"/>
       </td>
   </table>
   
