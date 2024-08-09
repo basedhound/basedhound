@@ -17,12 +17,13 @@
 - SEO – Accessibility – Copywriting
 
 #### Back
-- Node.js – Express – MongoDB – PostgreSQL – Appwrite
+- Node.js – Express – MongoDB – PostgreSQL
+- Appwrite- 
 
 #### And more
-- Wordpress – Divi – React Native – Expo
+- Wordpress/Divi – React Native/Expo
 - Figma – Photoshop – Midjourney – Dall-E
 - Vercel – Firebase – Hostinger – Netlify
-- Git – AI Tools
+- Git – Git Copliot – OpenAI API 
 
 
