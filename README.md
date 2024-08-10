@@ -16,7 +16,7 @@
 
 <table>
   <td>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:1px" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px" />
     <p><strong>🎨 Front</strong></p>
     <ul>
       <li>Next.js, React, TypeScript, JavaScript</li>
