@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="header" style="pointer-events: none;">
+  <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif">
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <table>
   <td>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px; pointer-events: none;" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px;" />
     <p><strong>🎨 Front</strong></p>
     <ul>
       <li>Next.js, React, TypeScript, JavaScript</li>
@@ -38,10 +38,10 @@
     <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:40px" />
   </td>
   <td>
-    <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png" />
+    <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
   </td>
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif" alt="footer">
+  <img src="https://i.postimg.cc/zGkV227y/pixel-samus.gif">
 </div>
