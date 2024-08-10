@@ -23,12 +23,12 @@
       <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
       <li>SEO, Accessibility, Copywriting</li>
     </ul>
-    <p><strong>🛠 Back</strong></p>
+    <br /><p><strong>🛠 Back</strong></p>
     <ul>
       <li>Node.js, Express, MongoDB, PostgreSQL</li>
       <li>Firebase, Appwrite, Cloudinary</li>
     </ul>
-    <p><strong>📁 More</strong></p>
+    <br /><p><strong>📁 More</strong></p>
     <ul>
       <li>Wordpress/Divi, React Native/Expo</li>
       <li>Figma, Photoshop, Midjourney, Dall-E</li>
