@@ -35,7 +35,7 @@
       <li>Vercel, Hostinger, Netlify</li>
       <li>Git, OpenAI API, AI Tools</li>
     </ul>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:1px" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px" />
   </td>
   <td>
     <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png" />
