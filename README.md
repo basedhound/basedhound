@@ -16,7 +16,7 @@
 
 <table>
   <td>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:60px" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px" />
     <p><strong>🎨 Front</strong></p>
     <ul>
       <li>Next.js, React, TypeScript, JavaScript</li>
@@ -35,7 +35,7 @@
       <li>Vercel, Hostinger, Netlify</li>
       <li>Git, OpenAI API, AI Tools</li>
     </ul>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:40px" />
   </td>
   <td>
     <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png" />
