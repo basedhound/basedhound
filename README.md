@@ -7,10 +7,10 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong> ✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below 👇</p>
-  📌 <a href="https://devfrank.vercel.app">Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a>&nbsp;&nbsp;&nbsp;<br />
-  📧 <a href="mailto:franck.vukelic@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;<br />
-  💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Text</a>&nbsp;&nbsp;&nbsp;<br/>
+  📌 <a href="https://devfrank.vercel.app">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
+  ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Some Designs</a>&nbsp;&nbsp;&nbsp;<br />
+  📧 <a href="mailto:franck.vukelic@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
+  💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Let's get in touch</a>&nbsp;&nbsp;&nbsp;<br/>
   
 </div><br /><br />
 
