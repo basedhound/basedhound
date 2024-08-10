@@ -4,12 +4,13 @@
 
 <div align="center">
   <h3>Web Developer</h3>
-  <p>Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
-  <p>Fluent in both <strong>French</strong> and <strong>English</strong> ✔</p>
-  <p>Check my links below 👇</p>
-  📌 <a href="https://devfrank.vercel.app">Portfolio</a><br />
-  ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a><br />
-  📧 <a href="mailto:franck.vukelic@gmail.com">Email</a><br />
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong> ✔</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong> ✔</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below 👇</p>
+  📌 <a href="https://devfrank.vercel.app">Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
+  ✨ <a href="https://drive.google.com/drive/folders/1_jEA6j9e31_xdi-JC7eDePDzfVrCYlEe">Design</a>&nbsp;&nbsp;&nbsp;<br />
+  📧 <a href="mailto:franck.vukelic@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;<br />
+  💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Text</a>&nbsp;&nbsp;&nbsp;<br/>
   
 </div><br /><br />
 
