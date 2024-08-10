@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="footer">
+  <img src="https://i.postimg.cc/bNkGkw2H/pixel-link.gif" alt="header" style="pointer-events: none;">
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <table>
   <td>
-    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px" />
+    <img src="https://i.postimg.cc/13R9Xm0z/transparent.png" style="width: 600px; height:50px; pointer-events: none;" />
     <p><strong>🎨 Front</strong></p>
     <ul>
       <li>Next.js, React, TypeScript, JavaScript</li>
