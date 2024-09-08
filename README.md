@@ -10,7 +10,7 @@
   📌 <a href="https://devfrank.vercel.app">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   ✨ <a href="https://drive.google.com/drive/folders/1wtsnGg-Ac6QerISm_hEo-dYeGEYwsjMc">Design Samples</a>&nbsp;&nbsp;&nbsp;<br />
   📧 <a href="mailto:franck.vukelic@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-  💬 <a href="https://api.whatsapp.com/send?phone=33779134587">Let's get in touch</a>&nbsp;&nbsp;&nbsp;<br/>
+  📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
   
 </div><br /><br />
 
