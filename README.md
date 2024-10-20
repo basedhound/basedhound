@@ -46,5 +46,5 @@
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/hPfjz8Lm/footer.gif">
+  <img src="https://i.ibb.co/9ZsnfVc/footer.gif">
 </div>
