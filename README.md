@@ -41,7 +41,7 @@
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.postimg.cc/c4MqwFYr/gokudev.png"/>
+    <img src="https://i.ibb.co/L9W5cdh/goku.png"/>
   </td>
 </table>
 
