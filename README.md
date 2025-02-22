@@ -8,7 +8,6 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://fvukelic.com">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  ✨ <a href="https://drive.google.com/drive/folders/1wtsnGg-Ac6QerISm_hEo-dYeGEYwsjMc">Design Samples</a>&nbsp;&nbsp;&nbsp;<br />
   📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
   📧 <a href="mailto:fvukelic@proton.me">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
 
