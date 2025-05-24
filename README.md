@@ -22,12 +22,11 @@
       <li>Next.js, React, TypeScript, JavaScript</li>
       <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
       <li>SEO, Accessibility, Copywriting</li>
-      <li>Astro, ...</li>
     </ul>
     <br /><p><strong>🛠 Back</strong></p>
     <ul>
       <li>Next.js, Node.js, Express</li>
-      <li>MongoDB, PostgreSQL</li>
+      <li>MongoDB, Supabase</li>
       <li>Firebase, Appwrite, Cloudinary</li>
     </ul>
     <br /><p><strong>📁 More</strong></p>
