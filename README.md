@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/mytnRrt/header.gif">
+  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.ibb.co/L9W5cdh/goku.png"/>
+    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
   </td>
 </table>
 
