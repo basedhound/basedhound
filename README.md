@@ -40,7 +40,7 @@
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
-</ul>
+</ul><br/>
   </td>
 </table>
 
