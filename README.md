@@ -4,7 +4,7 @@
   </td>
   <td>
   <div align="center">
-       <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" />
+       <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 450px; height:1px" />
   <h3>Freelance Developer – Project Manager – FR/EN</h3>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
