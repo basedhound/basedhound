@@ -44,5 +44,5 @@
   </td>
 </table>
 <div align="center">
-  <img src="https://i.postimg.cc/8c5HPFp2/footer.gif">
+  <img src="https://i.postimg.cc/ncJ7vwqH/footer.gif">
 </div>
