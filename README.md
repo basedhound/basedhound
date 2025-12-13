@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
-</div>
-
-<div align="center">
-  <h3>Web Developer & Project Manager</h3>
+  <h2>Web Developer & Project Manager</h2>
     <p>FR ◦ EN</p>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
@@ -48,3 +44,7 @@
 </ul>
   </td>
 </table>
+
+<div align="center">
+  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
+</div>
