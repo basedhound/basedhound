@@ -38,9 +38,6 @@
     </ul>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
-  <td>
-    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
-  </td>
 </table>
 
 <div align="center">
