@@ -49,7 +49,7 @@
 </ul>
   </td>
   <td>
-    <img src="https://thumbs.dreamstime.com/b/anime-boy-walking-countryside-road-illustration-style-alone-surrounded-greenery-symbolizing-journey-solitude-405031043.jpg"/>
+    <img src="https://img.freepik.com/free-photo/winter-evening-stroll_23-2152019488.jpg?semt=ais_hybrid&w=740&q=80"/>
   </td>
 </table>
 
