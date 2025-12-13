@@ -30,16 +30,6 @@
     <svg width="100%" height="auto" viewBox="0 0 400 350" xmlns="http://www.w3.org/2000/svg">
       <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-          <style>
-            .goku-desktop-only {
-              display: block;
-            }
-            @media (max-width: 768px) {
-              .goku-desktop-only {
-                display: none;
-              }
-            }
-          </style>
           <img class="goku-desktop-only" src="https://i.postimg.cc/SKTNNq7T/goku.png" style="max-width: 100%; height: auto;"/>
         </div>
       </foreignObject>
