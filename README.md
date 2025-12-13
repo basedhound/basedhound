@@ -1,9 +1,8 @@
-<table>
+<table  align="center">
     <td>
     <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
   </td>
   <td>
-
   <div align="center">
   <h3>Freelance Developer – Project Manager – FR/EN</h3>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
