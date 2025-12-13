@@ -15,6 +15,9 @@
 </div><br /><br />
 
 <table>
+    <td>
+    <img src="https://img.freepik.com/free-photo/winter-evening-stroll_23-2152019488.jpg?semt=ais_hybrid&w=740&q=80"/>
+  </td>
   <td>
     <p><strong>🎨 Frontend</strong></p>
     <ul>
@@ -47,9 +50,6 @@
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
 </ul>
-  </td>
-  <td>
-    <img src="https://img.freepik.com/free-photo/winter-evening-stroll_23-2152019488.jpg?semt=ais_hybrid&w=740&q=80"/>
   </td>
 </table>
 
