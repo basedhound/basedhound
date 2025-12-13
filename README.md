@@ -31,11 +31,9 @@
       <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <style>
-            /* The image is visible by default */
             .goku-desktop-only {
               display: block;
             }
-            /* Use media query to hide the image on screens smaller than 768px (Mobile) */
             @media (max-width: 768px) {
               .goku-desktop-only {
                 display: none;
