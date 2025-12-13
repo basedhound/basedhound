@@ -42,6 +42,6 @@
 </ul><br/>
   </td>
 </table>
-<div align="center" style="width: 100%">
+<div align="center">
   <img src="https://i.postimg.cc/8c5HPFp2/footer.gif">
 </div>
