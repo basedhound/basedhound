@@ -5,7 +5,7 @@
   <td>
 
   <div align="center">
-  <h3>Freelance Developer – Project Manager</h3>
+  <h3>Freelance Developer – Project Manager – FR/EN</h3>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
   <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
@@ -23,7 +23,7 @@
   <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
   <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
-  <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, ImageKit, Upstash</li>
+  <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, ImageKit</li>
 </ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
