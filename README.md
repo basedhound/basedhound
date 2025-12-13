@@ -17,26 +17,41 @@
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
-<p><strong>🎨 Front</strong></p>
+    <p><strong>🎨 Frontend</strong></p>
     <ul>
-      <li>**Languages/Frameworks:** JavaScript, TypeScript, React, Next.js, **Astro, Vue, Svelte**</li>
-      <li>**Styling:** HTML, CSS, Sass/SCSS, Tailwind, shadcn/ui, Bootstrap</li>
-      <li>**Animation/3D:** **Framer Motion, GSAP, Three.js, Anime.js, ScrollReveal.js**</li>
-      <li>**Practices:** SEO, Accessibility, Copywriting, Responsive Design</li>
+<li><strong>Frameworks:</strong> Next.js, React, Astro</li>
+      <li><strong>Languages:</strong> TypeScript, JavaScript</li>
+      <li><strong>Styling & UI:</strong> Tailwind, shadcn/ui, Sass, Bootstrap</li>
+      <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion, Anime.js</li>
+      <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
     </ul>
-    <br /><p><strong>🛠 Back</strong></p>
-    <ul>
-      <li>**Core:** Node.js, Express, Next.js (Fullstack)</li>
-      <li>**DB/BaaS:** MongoDB, Supabase, Firebase, Appwrite, Cloudinary</li>
-      <li>**Services:** **Stripe** (Payments), **Bright Data** (Web Scraping), OpenAI API</li>
-    </ul>
-    <br /><p><strong>📁 More</strong></p>
-    <ul>
-      <li>**DevOps/Deployment:** Git, **Docker**, Vercel, Netlify, Hostinger, **npm**</li>
-      <li>**Mobile:** React Native, Expo</li>
-      <li>**Design/Tools:** Figma, Photoshop, Midjourney, Dall-E, Wordpress/Divi</li>
-    </ul>
+<p><strong>⚙ Backend</strong></p>
+<ul>
+  <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
+  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
+  <li><strong>ORMs:</strong> Prisma, Drizzle</li>
+  <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, ImageKit, Upstash</li>
+</ul>
+    <p><strong>📈 Marketing</strong></p>
+<ul>
+  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
+  <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
+</ul>
+<p><strong>💼 Workflow</strong></p>
+<ul>
+  <li><strong>AI:</strong> ChatGPT, Gemini, Claude, Image/Video Generative</li>
+  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
+  <li><strong>Mobile Development:</strong> React Native, Expo</li>
+  <li><strong>Low-Code:</strong> Wordpress/Divi, Webflow, Shopify</li>
+  <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
+  <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
+  <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
+</ul>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+  </td>
+  <td>
+    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
   </td>
 </table>
 
