@@ -1,4 +1,4 @@
-<table  width="100%">
+<table  style="width: 100%;">
     <td>
     <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
   </td>
