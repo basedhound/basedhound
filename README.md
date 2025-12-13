@@ -16,7 +16,6 @@
 
 <table>
   <td>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
     <p><strong>🎨 Frontend</strong></p>
     <ul>
 <li><strong>Frameworks:</strong> Next.js, React, Astro</li>
@@ -48,10 +47,9 @@
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
 </ul>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
+    <img src="https://thumbs.dreamstime.com/b/anime-boy-walking-countryside-road-illustration-style-alone-surrounded-greenery-symbolizing-journey-solitude-405031043.jpg"/>
   </td>
 </table>
 
