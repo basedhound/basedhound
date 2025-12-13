@@ -1,16 +1,15 @@
-<div align="center">
-  <h2>Freelance Developer – Project Manager</h2>
-    <p>FR ◦ EN</p>
-  <a href="https://fvukelic.com">Visit my Portfolio</a> ››
-  <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
-  <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
-</div> <br/>
-
 <table>
     <td>
     <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
   </td>
   <td>
+
+  <div align="center">
+  <h3>Freelance Developer – Project Manager</h3>
+  <a href="https://fvukelic.com">Visit my Portfolio</a> ››
+  <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
+  <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
+</div> <br/>
     <p><strong>🎨 Frontend</strong></p>
     <ul>
 <li><strong>Frameworks:</strong> Next.js, React, Astro</li>
@@ -19,20 +18,20 @@
       <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion, Anime.js</li>
       <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
     </ul>
-<br/><p><strong>⚙ Backend</strong></p>
+<p><strong>⚙ Backend</strong></p>
 <ul>
   <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
   <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
   <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, ImageKit, Upstash</li>
 </ul>
-    <br/><p><strong>📈 Marketing</strong></p>
+    <p><strong>📈 Marketing</strong></p>
 <ul>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
   <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
   <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
 </ul>
-<br/><p><strong>💼 Workflow</strong></p>
+<p><strong>💼 Workflow</strong></p>
 <ul>
   <li><strong>AI:</strong> ChatGPT, Gemini, Claude, Image/Video Generative</li>
   <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
