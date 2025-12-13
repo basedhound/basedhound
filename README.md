@@ -17,24 +17,24 @@
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
-    <p><strong>🎨 Front</strong></p>
+<p><strong>🎨 Front</strong></p>
     <ul>
-      <li>Next.js, React, TypeScript, JavaScript</li>
-      <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
-      <li>SEO, Accessibility, Copywriting</li>
+      <li>**Languages/Frameworks:** JavaScript, TypeScript, React, Next.js, **Astro, Vue, Svelte**</li>
+      <li>**Styling:** HTML, CSS, Sass/SCSS, Tailwind, shadcn/ui, Bootstrap</li>
+      <li>**Animation/3D:** **Framer Motion, GSAP, Three.js, Anime.js, ScrollReveal.js**</li>
+      <li>**Practices:** SEO, Accessibility, Copywriting, Responsive Design</li>
     </ul>
     <br /><p><strong>🛠 Back</strong></p>
     <ul>
-      <li>Next.js, Node.js, Express</li>
-      <li>MongoDB, Supabase</li>
-      <li>Firebase, Appwrite, Cloudinary</li>
+      <li>**Core:** Node.js, Express, Next.js (Fullstack)</li>
+      <li>**DB/BaaS:** MongoDB, Supabase, Firebase, Appwrite, Cloudinary</li>
+      <li>**Services:** **Stripe** (Payments), **Bright Data** (Web Scraping), OpenAI API</li>
     </ul>
     <br /><p><strong>📁 More</strong></p>
     <ul>
-      <li>Wordpress/Divi, React Native/Expo</li>
-      <li>Figma, Photoshop, Midjourney, Dall-E</li>
-      <li>Vercel, Hostinger, Netlify</li>
-      <li>Git, OpenAI API, AI Tools</li>
+      <li>**DevOps/Deployment:** Git, **Docker**, Vercel, Netlify, Hostinger, **npm**</li>
+      <li>**Mobile:** React Native, Expo</li>
+      <li>**Design/Tools:** Figma, Photoshop, Midjourney, Dall-E, Wordpress/Divi</li>
     </ul>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
