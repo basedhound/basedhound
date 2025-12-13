@@ -2,18 +2,6 @@
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
 
-<div align="center">
-  <h3>Web Developer</h3>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
-  📌 <a href="https://fvukelic.com">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
-  📧 <a href="mailto:fvukelic@proton.me">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-
-  
-</div><br /><br />
-
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
@@ -39,7 +27,25 @@
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
   <td>
-    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
+    <svg width="100%" height="auto" viewBox="0 0 400 350" xmlns="http://www.w3.org/2000/svg">
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            /* The image is visible by default */
+            .goku-desktop-only {
+              display: block;
+            }
+            /* Use media query to hide the image on screens smaller than 768px (Mobile) */
+            @media (max-width: 768px) {
+              .goku-desktop-only {
+                display: none;
+              }
+            }
+          </style>
+          <img class="goku-desktop-only" src="https://i.postimg.cc/SKTNNq7T/goku.png" style="max-width: 100%; height: auto;"/>
+        </div>
+      </foreignObject>
+    </svg>
   </td>
 </table>
 
