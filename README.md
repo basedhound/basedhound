@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
 
@@ -40,3 +40,4 @@
 <div align="center">
   <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
 </div>
+](https://dev.to/grahamthedev/take-your-github-readme-to-the-next-level-responsive-and-light-and-dark-modes--3kpc)
