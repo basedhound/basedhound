@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Web Developer & Project Manager</h2>
+  <h2>Freelance Developer – Project Manager</h2>
     <p>FR ◦ EN</p>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
@@ -8,7 +8,7 @@
 
 <table>
     <td>
-    <img src="https://i.pinimg.com/474x/b0/28/74/b02874c01186be551b10d2e2e9d5436a.jpg"/>
+    <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
   </td>
   <td>
     <p><strong>🎨 Frontend</strong></p>
@@ -46,5 +46,5 @@
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
+  <img src="https://i.postimg.cc/8c5HPFp2/footer.gif">
 </div>
