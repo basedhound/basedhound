@@ -1,4 +1,5 @@
-<table  style="width: 100%;">
+<div align="center" style="width: 100%">
+<table>
     <td>
     <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
   </td>
@@ -42,7 +43,7 @@
 </ul><br/>
   </td>
 </table>
-
-<div align="center">
+</div>
+<div align="center" style="width: 100%">
   <img src="https://i.postimg.cc/8c5HPFp2/footer.gif">
 </div>
