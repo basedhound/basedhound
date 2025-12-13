@@ -3,20 +3,16 @@
 </div>
 
 <div align="center">
-  <h3>Web Developer</h3>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
-  📌 <a href="https://fvukelic.com">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
-  📧 <a href="mailto:fvukelic@proton.me">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-
-  
-</div><br /><br />
+  <h3>Web Developer & Project Manager</h3>
+    <p>FR ◦ EN</p>
+  <a href="https://fvukelic.com">Visit my Portfolio</a> ››
+  <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
+  <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
+</div> <br/>
 
 <table>
     <td>
-    <img src="https://img.freepik.com/free-photo/winter-evening-stroll_23-2152019488.jpg?semt=ais_hybrid&w=740&q=80"/>
+    <img src="https://i.pinimg.com/474x/b0/28/74/b02874c01186be551b10d2e2e9d5436a.jpg"/>
   </td>
   <td>
     <p><strong>🎨 Frontend</strong></p>
@@ -27,20 +23,20 @@
       <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion, Anime.js</li>
       <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
     </ul>
-<p><strong>⚙ Backend</strong></p>
+<br/><p><strong>⚙ Backend</strong></p>
 <ul>
   <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
   <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
   <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, ImageKit, Upstash</li>
 </ul>
-    <p><strong>📈 Marketing</strong></p>
+    <br/><p><strong>📈 Marketing</strong></p>
 <ul>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
   <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
   <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
 </ul>
-<p><strong>💼 Workflow</strong></p>
+<br/><p><strong>💼 Workflow</strong></p>
 <ul>
   <li><strong>AI:</strong> ChatGPT, Gemini, Claude, Image/Video Generative</li>
   <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
