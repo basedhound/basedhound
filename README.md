@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Web Developer & Project Manager</h2>
+  <h1>Web Developer & Project Manager</h1>
     <p>FR ◦ EN</p>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
