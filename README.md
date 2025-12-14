@@ -39,7 +39,7 @@
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
-<a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 450px; height:1px" /></a>
+<a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
 </ul><br/>
   </td>
 </table>
