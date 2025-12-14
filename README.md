@@ -3,7 +3,7 @@
     <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
-  <div align="center">
+  <div align="center"><br/>
   <h3>Freelance Developer – Project Manager – FR/EN</h3>
   <a href="https://fvukelic.com">Visit my Portfolio</a> ››
   <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
@@ -39,8 +39,8 @@
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
+<a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 450px; height:1px" /></a>
 </ul><br/>
-             <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 450px; height:1px" /></a>
   </td>
 </table>
 <div align="center">
