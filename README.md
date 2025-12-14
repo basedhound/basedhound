@@ -1,6 +1,6 @@
 <table align="center">
     <td>
-    <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/>
+    <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
   <div align="center">
@@ -44,5 +44,5 @@
   </td>
 </table>
 <div align="center">
-  <img src="https://i.postimg.cc/ncJ7vwqH/footer.gif">
+  <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
 </div>
