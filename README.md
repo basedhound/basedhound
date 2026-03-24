@@ -32,12 +32,12 @@
 </ul>
 <p><strong>💼 Workflow</strong></p>
 <ul>
-  <li><strong>AI:</strong> ChatGPT, Gemini, Claude, Image/Video Generative</li>
+  <li><strong>AI:</strong> Claude Code, Gemini, Image/Video Generative</li>
   <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
   <li><strong>Mobile Development:</strong> React Native, Expo</li>
   <li><strong>Low-Code:</strong> Wordpress/Divi, Webflow, Shopify</li>
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
-  <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, CapCut, Thumbnails</li>
+  <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
 <a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
 </ul><br/>
